@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/justin/git/mortar/MortarTest/app/build/intermediates/pre-dexed/debug/javax.inject-1-ee0af347f888c381449fc66c438a086ddd9080f0.jar"
+        jar="/Users/justin/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38"/>
+    <item
+        dex="/Users/justin/git/mortar/MortarTest/app/build/intermediates/pre-dexed/debug/retrofit-1.7.0-ad4ddff4c90e60915e1d01ab7a321e7a2163ea50.jar"
+        jar="/Users/justin/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.7.0/cc6807da6fdf91bea1b6a4a90c3818dac27d335f/retrofit-1.7.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="cc6807da6fdf91bea1b6a4a90c3818dac27d335f"/>
+    <item
+        dex="/Users/justin/git/mortar/MortarTest/app/build/intermediates/pre-dexed/debug/classes-31b8feb8358cce97f60a2ba79731d6871e12c8dd.jar"
+        jar="/Users/justin/git/mortar/MortarTest/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="af64527b748983a75de9c0756e9768b56b240a49"/>
+    <item
+        dex="/Users/justin/git/mortar/MortarTest/app/build/intermediates/pre-dexed/debug/dagger-1.2.1-eb92087a628134138044a4ab00f3cba3617ea8ba.jar"
+        jar="/Users/justin/.gradle/caches/modules-2/files-2.1/com.squareup.dagger/dagger/1.2.1/78f96ef00fceee95802930944b1fc4e0e1f9aacc/dagger-1.2.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="78f96ef00fceee95802930944b1fc4e0e1f9aacc"/>
+    <item
+        dex="/Users/justin/git/mortar/MortarTest/app/build/intermediates/pre-dexed/debug/gson-2.3-7830ca3e0f24a3c1b01f5b7e07bdcffb367e3e57.jar"
+        jar="/Users/justin/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce"/>
+    <item
+        dex="/Users/justin/git/mortar/MortarTest/app/build/intermediates/pre-dexed/debug/flow-0.8-038596d547f696dc39b4cd097034885870ebd908.jar"
+        jar="/Users/justin/.gradle/caches/modules-2/files-2.1/com.squareup.flow/flow/0.8/a9eb56d1fede600444f683ae8d506327937133e5/flow-0.8.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a9eb56d1fede600444f683ae8d506327937133e5"/>
+    <item
+        dex="/Users/justin/git/mortar/MortarTest/app/build/intermediates/pre-dexed/debug/rxjava-core-0.17.5-3048c2291885506a10cc682b8b4ad3c9475054b9.jar"
+        jar="/Users/justin/.gradle/caches/modules-2/files-2.1/com.netflix.rxjava/rxjava-core/0.17.5/c832b52ab9ef5277dbf55fe1223ec52bafc63e60/rxjava-core-0.17.5.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="c832b52ab9ef5277dbf55fe1223ec52bafc63e60"/>
+    <item
+        dex="/Users/justin/git/mortar/MortarTest/app/build/intermediates/pre-dexed/debug/mortar-0.16-0c425d586889d2387eec30793d91218993e5f566.jar"
+        jar="/Users/justin/.gradle/caches/modules-2/files-2.1/com.squareup.mortar/mortar/0.16/dd9e7052ee528f7fe43486649d7a3eb2d798607/mortar-0.16.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="0dd9e7052ee528f7fe43486649d7a3eb2d798607"/>
+    <item
+        dex="/Users/justin/git/mortar/MortarTest/app/build/intermediates/pre-dexed/debug/rxjava-android-0.17.5-74a859476e1c104c2db39c998877f2c99f9584cc.jar"
+        jar="/Users/justin/.gradle/caches/modules-2/files-2.1/com.netflix.rxjava/rxjava-android/0.17.5/38c0a26e0ff41f22c1dca3405b55fe7af4d949c4/rxjava-android-0.17.5.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="38c0a26e0ff41f22c1dca3405b55fe7af4d949c4"/>
+    <item
+        dex="/Users/justin/git/Android-Mortar-Example/app/build/intermediates/pre-dexed/debug/classes-2a8e1a31a5e9204b9b2866f0b2d280473fa08318.jar"
+        jar="/Users/justin/git/Android-Mortar-Example/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="af64527b748983a75de9c0756e9768b56b240a49"/>
+    <item
+        dex="/Users/justin/git/mortar/MortarTest/app/build/intermediates/pre-dexed/debug/butterknife-5.1.2-27f2953c9eef4ce8b96d86be62d5a9f0f27c4ed6.jar"
+        jar="/Users/justin/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/5.1.2/daf5472b0df6dabaceb6ad755b3812535863965a/butterknife-5.1.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="daf5472b0df6dabaceb6ad755b3812535863965a"/>
+    <item
+        dex="/Users/justin/git/mortar/MortarTest/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-2484d88715cbcdaf306e7f8449d6546e84c1520d.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156"/>
+
+</pre-dex-items>

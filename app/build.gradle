@@ -1,0 +1,34 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 20
+    buildToolsVersion "20.0.0"
+
+    defaultConfig {
+        applicationId "com.example.mortar"
+        minSdkVersion 19
+        targetSdkVersion 20
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            runProguard false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.actionbarsherlock:actionbarsherlock:4.4.0@aar'
+    compile 'com.android.support:support-v4:18.0.+'
+    compile 'com.squareup.mortar:mortar:0.16+'
+    compile 'com.google.code.gson:gson:2.3'
+    compile 'com.squareup.flow:flow:0.8'
+    compile 'com.squareup.retrofit:retrofit:1.7.0'
+    compile 'com.netflix.rxjava:rxjava-android:0.17.5'
+    compile 'com.jakewharton:butterknife:5.1.2'
+    provided 'com.squareup.dagger:dagger-compiler:1.2.1'
+
+    compile fileTree(dir: 'libs', include: '*.jar')
+}
